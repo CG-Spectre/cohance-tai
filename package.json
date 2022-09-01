@@ -10,6 +10,7 @@
   "author": "SpectreDev",
   "license": "ISC",
   "dependencies": {
+    "discord.js": "^14.3.0",
     "dotenv": "^16.0.2"
   }
 }
